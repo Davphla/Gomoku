@@ -43,8 +43,3 @@ Install [Piskvork](https://sourceforge.net/projects/piskvork/) or
 - `DEBUG` - Add debug logs to stderr 
 - `GMK_POLICY` - Gomoku policies (default: `RandomPolicy`)
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
